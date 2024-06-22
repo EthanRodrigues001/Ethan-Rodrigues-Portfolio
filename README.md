@@ -23,3 +23,9 @@ bun dev
 ~ Ethan
 
 If u want to contribute in any way, kindly clone and add a pull request of ur contribution :)
+
+##
+
+<h3>Preview</h3>
+
+<img src="public/website.png"/>
